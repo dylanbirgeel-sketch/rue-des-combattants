@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rue-des-combattants</string>
+    <string name="title_activity_main">rue-des-combattants</string>
+    <string name="package_name">com.ruedescombattants.game</string>
+    <string name="custom_url_scheme">com.ruedescombattants.game</string>
+</resources>

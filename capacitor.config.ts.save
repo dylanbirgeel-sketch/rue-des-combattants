@@ -1,0 +1,10 @@
+import type { CapacitorConfig } from '@capacitor/cli';
+
+const config: CapacitorConfig = {
+  appId: 'com.ruedescombattants.game',
+  appName: 'Rue des Combattants',
+  webDir: 'www'
+};
+
+export default config;
+
